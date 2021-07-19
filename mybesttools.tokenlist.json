@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://avatars.githubusercontent.com/u/2362821?s=120&v=4",
@@ -35,7 +35,7 @@
           "symbol": "OMEN",
           "decimals": 18,
           "chainId": 137,
-          "logoURI": "https://augury.finance/_nuxt/img/omen-token.b433161.png"
+          "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/dg.jpg"
     },
     {
       "name": "PirateP Token",
