@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -29,6 +29,14 @@
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6eD7644C69416d67B522e20bC294A9a9B405B31/logo.png"
     },    
+    {
+          "name": "Augury OMEN Token",
+          "address": "0x76e63a3e7ba1e2e61d3da86a87479f983de89a7e",
+          "symbol": "OMEN",
+          "decimals": 18,
+          "chainId": 137,
+          "logoURI": "https://augury.finance/_nuxt/img/omen-token.b433161.png"
+    },
     {
       "name": "PirateP Token",
       "address": "0x3750144acd56cc1d3e8dafd8a187ad10d174d462",
