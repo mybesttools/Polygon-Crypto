@@ -14,6 +14,14 @@
   ],
   "tokens": [
     {
+      "name": "app.pearzap.com",
+      "address": "0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44",
+      "symbol": "PEAR",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://polygonscan.com/token/images/peartoken_32.png"
+    },
+    {
       "name": "decentral.games",
       "address": "0x2a93172c8DCCbfBC60a39d56183B7279a2F647b4",
       "symbol": "$DG",
